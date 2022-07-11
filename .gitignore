@@ -1,7 +1,10 @@
 HELP.md
 logs/
 target/
-!.mvn/wrapper/maven-wrapper.jar
+.mvn
+mvnw
+mvnw.cmd
+server.log
 !**/src/main/**/target/
 !**/src/test/**/target/
 
